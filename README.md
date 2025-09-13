@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuzKageno
+- 👋 Hi, I’m @Muzzy-7
 - 👀 I’m interested in software development, web technologies, and exploring AI/ML applications.
 - 🌱 I’m currently learning C
 - 💞️ I want to collaborate on open-source projects, web development, or interesting AI/ML initiatives.
